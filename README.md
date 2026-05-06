@@ -106,15 +106,16 @@
 本仓库为 Obsidian vault，所有笔记均为 Markdown 格式：
 
 ```
-Skill0基础-神级课程/
+.
 ├── README.md              # 本文件
 ├── Skill大师课-总纲.md      # 课程总纲与学习路线图
-├── Level0-先修课/          # 2 篇
+├── VERSION                # 版本号
+├── Level0-先修课/          # 3 篇
 ├── Level1-新手村/          # 17 篇
 ├── Level2-学徒工/          # 15 篇
 ├── Level3-熟练工/          # 18 篇
 ├── Level4-专家/            # 19 篇
-├── Level5-大师/            # 24 篇
+├── Level5-大师/            # 26 篇
 ├── Level6-宗师/            # 50 篇
 └── Level7-神级/            # 16 篇
 ```
