@@ -1,39 +1,17 @@
-# Obsidian
+# Obsidian workspace (personal state, not course content)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/plugins/obsidian42-brat/
-.obsidian/plugins/obsidian-image-toolkit/
-.obsidian/plugins/obsidian-local-rest-api/
-.obsidian/plugins/obsidian-web-browser/
-.obsidian/plugins/surfing/
 
-# Claude / Agent session data (large, auto-generated)
-.claude/projects/
-.claudian/sessions/
-.claudian/plans/
+# Claude/Agent session data
+.claude/
+.claudian/
+.clawhub/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Node
-node_modules/
-
-# Temp files
+# Temp
 *.tmp
 tmp_*.js
-
-# Cloned skill repos (content already in course materials)
-.claude/skills/dbskill/
-.claude/skills/tavily-search/
-原始资料/Skills/anthropic-skills/
-原始资料/Skills/baoyu-skills/
-原始资料/Skills/browser-use/
-原始资料/Skills/darwin-skill/
-原始资料/Skills/gstack/
-原始资料/Skills/marketingskills/
-原始资料/Skills/nuwa-skill/
-原始资料/Skills/remotion-skills/
-知识库/Skill0基础-神级课程/.git/
-
